@@ -1,7 +1,6 @@
 # Recomenda-Ai-Udemy
 Projeto Final do Curso de Lógica de Programação com Python (modificado)
 
-Projeto Final de Lógica de Programação com Python. (modificado)
 
 Link do curso: https://app.collabplay.online/users/2904c807-c392-4bd6-86a1-ef745eedddc5/products/73cd7373-6090-4a28-958f-b699254231dc
 
